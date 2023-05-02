@@ -2,7 +2,7 @@
 export default [
   {
     id: 1,
-    url: "https://metro.co.uk/wp-content/uploads/2015/05/pokemon_crying.gif?quality=90&strip=all&zoom=1&resize=500%2C284",
+    url: "https://media4.giphy.com/media/f7Mv6W7MzKwQXwUqjT/giphy.gif?cid=ecf05e47dc6npz5i1w7k4eat9ho2uk6x3xenj6ou6r2tphzk&ep=v1_gifs_search&rid=giphy.gif&ct=g",
     message: "",
     timestamp: "10/04/2023, 4:33:30 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -11,7 +11,7 @@ export default [
   },
   {
     id: 2,
-    url: "https://media4.popsugar-assets.com/files/2013/11/07/832/n/1922398/eb7a69a76543358d_28.gif",
+    url: "https://i.gifer.com/origin/68/68f87b37ccfde22769262c7cdc7b2b0b.gif",
     message: "",
     timestamp: "12/04/2023, 4:33:30 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -20,7 +20,7 @@ export default [
   },
   {
     id: 3,
-    url: "https://acegif.com/wp-content/uploads/gif-shaking-head-38.gif",
+    url: "https://media.tenor.com/IaHWusTft-sAAAAC/hasbulla.gif",
     message: "",
     timestamp: "14/04/2023, 4:33:30 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -29,7 +29,7 @@ export default [
   },
   {
     id: 4,
-    url: "https://i.pinimg.com/originals/68/a0/9e/68a09e774e98242871c2db0f99307420.gif",
+    url: "https://media.tenor.com/M8PQrRet_wgAAAAC/john-cena-wwe.gif",
     message: "",
     timestamp: "17/04/2023, 4:33:30 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -38,7 +38,7 @@ export default [
   },
   {
     id: 5,
-    url: "https://i.pinimg.com/originals/73/d3/a1/73d3a14d212314ab1f7268b71d639c15.gif",
+    url: "https://media.tenor.com/POxfVzLwFF8AAAAd/ghost-cod.gif",
     message: "",
     timestamp: "20/04/2023, 4:33:30 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
